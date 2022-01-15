@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\EskoolDB\Eskool18\eSkoolDB\eSkoolDB\eSkoolDB\bin\Debug\eSkoolDB.dacpac
+C:\Users\Hp\Desktop\EskoolDB\Eskool18\eSkoolDB\eSkoolDB\eSkoolDB\bin\Debug\eSkoolDB.dll
+C:\Users\Hp\Desktop\EskoolDB\Eskool18\eSkoolDB\eSkoolDB\eSkoolDB\bin\Debug\eSkoolDB.pdb
+C:\Users\Hp\Desktop\EskoolDB\Eskool18\eSkoolDB\eSkoolDB\eSkoolDB\obj\Debug\eSkoolDB.sqlproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\EskoolDB\Eskool18\eSkoolDB\eSkoolDB\eSkoolDB\obj\Debug\eSkoolDB.dll
+C:\Users\Hp\Desktop\EskoolDB\Eskool18\eSkoolDB\eSkoolDB\eSkoolDB\obj\Debug\eSkoolDB.pdb

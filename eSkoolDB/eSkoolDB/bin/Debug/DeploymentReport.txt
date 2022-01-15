@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[User_Info]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[User_Info] (Table)
+     Create
+       [dbo].[ClassTeachers] (Table)
+       [dbo].[QuestionBank] (Table)
+       [dbo].[QuestionBankMcqs] (Table)
+       [dbo].[SchoolClasses] (Table)
+       [dbo].[Student] (Table)
+       [dbo].[Teacher] (Table)
+       [dbo].[FK_ClassTeachers_SchoolClasses] (Foreign Key)
+       [dbo].[FK_ClassTeachers_Teacher] (Foreign Key)
+       [dbo].[FK_Student_SchoolClasses] (Foreign Key)
+
+** Supporting actions
